@@ -1,0 +1,12 @@
+.wrapper {
+  display: flex;
+
+  main {
+    flex: 1;
+  }
+
+  section.main {
+    height: calc(100vh - 6.5rem);
+    overflow-y: scroll;
+  }
+}

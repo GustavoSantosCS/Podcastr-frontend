@@ -1,0 +1,9 @@
+- [ ] Adicionar sistema de audio
+- [x] Quando der play o butão player
+- [ ] Next
+- [ ] Previstes
+- [ ] Loping
+- [ ] Shuffle
+- [ ] Controller do Time
+- [ ] Auto Next
+- [ ] 
