@@ -88,7 +88,7 @@ $ npm run dev / yarn dev
 <h2 id="licenca">:memo: Licença </h2>
 
 <p>
-  Copyright © 2020 [Gustavo Santos](https://https://github.com/GustavoSantosCS).
+  Copyright © 2020 <a href="https://https://github.com/GustavoSantosCS">Gustavo Santos</a>.
 </p>
 <p>
   This project is under the <a href="./.github/LICENSE">MIT</a> license. See the archive LICENSE for more details.
