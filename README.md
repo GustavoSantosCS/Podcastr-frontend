@@ -1,14 +1,12 @@
-<div align="center">
-  <span align="center"> 
-    <img src="./.github/logo-podcastr.svg" width="175" heigh="132" align="center"/>
-  </span>
-  <h5 align="center">
-    PodCastr | O melhor para vocé ouvir sempre
-  </h5>
-  <h5 align="center">
-    Projeto web construído durante o Next Level Week #05 | Trilha ReactJS <img src="./.github/logo-react.svg" height="15" alt="logo react">
-  </h5>
-</div>
+<h1 align="center"> 
+  <img src="./.github/logo-podcastr.svg" width="175"/>
+</h1>
+<h5 align="center">
+  PodCastr | O melhor para vocé ouvir sempre
+</h5>
+<h5 align="center">
+  Projeto web construído durante o Next Level Week #05 | Trilha ReactJS <img src="./.github/logo-react.svg" height="15" alt="logo react">
+</h5>
 
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=Plataforma&message=PC&color=04d361&labelColor=8257e5">
@@ -39,9 +37,10 @@ O Podcastr é uma aplicação web para ouvir podcasts sobre programação produz
 
 <span align="center"> 
  <img src="./.github/desktop/home-with-podcast.png" width="750px"/>
- 
-  Você pode acessar o Layout pelo <a href="https://www.figma.com">Figma</a> através <a href="https://www.figma.com/file/ZGsvRs0PjjI8KARiebR0Xc/Podcastr?node-id=160%3A2761">clicando aqui</a>.
 </span>
+<p align="center">
+  Você pode acessar o Layout pelo <a href="https://www.figma.com">Figma</a> através <a href="https://www.figma.com/file/ZGsvRs0PjjI8KARiebR0Xc/Podcastr?node-id=160%3A2761">clicando aqui</a>.
+</p>
 
 <h2 id="tecnologias">:hammer: Tecnologias</h2>
 
@@ -88,5 +87,12 @@ $ npm run dev / yarn dev
 
 <h2 id="licenca">:memo: Licença </h2>
 
-Copyright © 2020 [Gustavo Santos](https://https://github.com/GustavoSantosCS).
-This project is [MIT](./.github/LICENSE) licensed.
+<p>
+  Copyright © 2020 [Gustavo Santos](https://https://github.com/GustavoSantosCS).
+</p>
+<p>
+  This project is under the <a href="./.github/LICENSE">MIT</a> license. See the archive LICENSE for more details.
+</p>
+
+---
+<p align="center">Desenvovido por Gustavo Santos com 💚</p>
