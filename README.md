@@ -1,20 +1,15 @@
-<div align="center">
-  <a href="https://podcastr-frontend.vercel.app/">
-    <img src="./.github/logo-podcastr.svg" width="150" heigh="112" alt="logo podcastr">
-    <h5 align="center">
-      PodCastr | O melhor para vocé ouvir sempre
-    </h5>
-  </a>
-  
-  <h4>
-      Trilha ReactJS <img src="./.github/logo-react.svg" height="15" alt="logo react">
-  </h4>
+<a href="https://podcastr-frontend.vercel.app/" align="center">
+  <img src="./.github/logo-podcastr.svg" width="175" heigh="132" align="center"/>
   <h5 align="center">
-    Projeto web construído durante o Next Level Week #05
+    PodCastr | O melhor para vocé ouvir sempre
   </h5>
-</div>
+</a>
 
-<div align="center">
+<h5 align="center">
+  Projeto web construído durante o Next Level Week #05 | Trilha ReactJS <img src="./.github/logo-react.svg" height="15" alt="logo react">
+</h5>
+
+<p align="center">
   <img src="https://img.shields.io/static/v1?label=Plataforma&message=PC&color=04d361&labelColor=8257e5">
 
   <img src="https://img.shields.io/static/v1?label=License&labelColor=8257e5&message=MIT&color=04d361">
@@ -24,21 +19,22 @@
   <img src="https://img.shields.io/static/v1?label=Author&labelColor=8257e5&message=GustavoSantosCS&color=04d361">
 
   <img src="https://img.shields.io/static/v1?label=Language&labelColor=8257e5&message=JavaScript&color=04d361">
-</div>
-</br>
-<p align="center">
-  <a href="#page_facing_up-descrição">Descrição</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#art-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#hammer-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#clipboard-funcionalidades">Funcionalidades</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#closed_book-instalação">Instalação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
 </p>
-## :page_facing_up: Descrição
+
+<p align="center">
+  <a href="#descricao">Descrição</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#funcionalidades">Funcionalidades</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#instalacao">Instalação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#licenca">Licença</a>
+</p>
+
+<h2 id="descricao">:page_facing_up: Descrição</h2>
 
 O Podcastr é uma aplicação web para ouvir podcasts sobre programação produzidos pela RocketSeat.
 
-## :art: Layout
+<h2 id="layout">:art: Layout </h2>
 
 <div align='center'>
  <img src="./.github/desktop/home-with-podcast.png" width="550" alt="logo podcastr">
@@ -46,7 +42,8 @@ O Podcastr é uma aplicação web para ouvir podcasts sobre programação produz
  </br>
   Você pode acessar o Layout pelo <a href="https://www.figma.com">Figma</a> através <a href="https://www.figma.com/file/ZGsvRs0PjjI8KARiebR0Xc/Podcastr?node-id=160%3A2761">clicando aqui</a>.
 </div>
-## :hammer: Tecnologias
+
+<h2 id="tecnologias">:hammer: Tecnologias</h2>
 
 Este projeto foi desenvolvido com as seguintes tecnologias
 
@@ -55,7 +52,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias
 - [TypeScript](https://www.typescriptlang.org/)
 - [Sass](https://sass-lang.com/)
 
-## :clipboard: Funcionalidades
+<h2 id="funcionalidades">:clipboard: Funcionalidades </h2>
 
 - [x] Play podcast.
 - [x] Selecionar apenas um podcast para ouvir.
@@ -64,14 +61,14 @@ Este projeto foi desenvolvido com as seguintes tecnologias
 - [x] Opção de Loop.
 - [x] Opção para embaralhar.
 
-## :closed_book: Instalação
+<h2 id="instalacao">:closed_book: Instalação </h2>
 
-### Pré-requisitos
+<h3>Pré-requisitos </h3>
 
-##### Dependências:
+<h4>Dependências: </h4>
 
 - [Git](https://git-scm.com)
-- [Node.js](https://nodejs.org/en/)
+- [Node.js](https://nodejs.org/pt-br/)
 
 ```bash
 # Clone este repositório.
@@ -89,8 +86,7 @@ $ npm run dev / yarn dev
 # O app vai está rodando na porta 3000 - acesse <http://localhost:3000>
 ```
 
-</div>
-## :memo: Licença
+<h2 id="licenca">:memo: Licença </h2>
 
 Copyright © 2020 [Gustavo Santos](https://https://github.com/GustavoSantosCS).
 This project is [MIT](./.github/LICENSE) licensed.
