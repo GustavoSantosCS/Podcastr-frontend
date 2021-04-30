@@ -1,13 +1,14 @@
-<a href="https://podcastr-frontend.vercel.app/" align="center">
-  <img src="./.github/logo-podcastr.svg" width="175" heigh="132" align="center"/>
+<div align="center">
+  <span align="center"> 
+    <img src="./.github/logo-podcastr.svg" width="175" heigh="132" align="center"/>
+  </span>
   <h5 align="center">
     PodCastr | O melhor para vocé ouvir sempre
   </h5>
-</a>
-
-<h5 align="center">
-  Projeto web construído durante o Next Level Week #05 | Trilha ReactJS <img src="./.github/logo-react.svg" height="15" alt="logo react">
-</h5>
+  <h5 align="center">
+    Projeto web construído durante o Next Level Week #05 | Trilha ReactJS <img src="./.github/logo-react.svg" height="15" alt="logo react">
+  </h5>
+</div>
 
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=Plataforma&message=PC&color=04d361&labelColor=8257e5">
@@ -36,12 +37,11 @@ O Podcastr é uma aplicação web para ouvir podcasts sobre programação produz
 
 <h2 id="layout">:art: Layout </h2>
 
-<div align='center'>
- <img src="./.github/desktop/home-with-podcast.png" width="550" alt="logo podcastr">
- </br>
- </br>
+<span align="center"> 
+ <img src="./.github/desktop/home-with-podcast.png" width="750px"/>
+ 
   Você pode acessar o Layout pelo <a href="https://www.figma.com">Figma</a> através <a href="https://www.figma.com/file/ZGsvRs0PjjI8KARiebR0Xc/Podcastr?node-id=160%3A2761">clicando aqui</a>.
-</div>
+</span>
 
 <h2 id="tecnologias">:hammer: Tecnologias</h2>
 
